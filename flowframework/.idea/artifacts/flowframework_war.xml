@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flowframework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="flowframework.war">
+      <element id="artifact" artifact-name="flowframework:war exploded" />
+    </root>
+  </artifact>
+</component>
